@@ -60,6 +60,11 @@ Projemizi çalıştırdıktan sonra örnek olarak 1234 numaralı öğrenciye gir
 <br>
 Numara girişi yaptıktan sonra öğrenciye ait numarayı burada göstermiş oldu.<br><br>
 
+Projemize SQL bağlantısı ekliyoruz. SQL bağlantı ekleme işlemi CSharpEducation ve SQLEducation repolarında yer almaktadır.<br><br>
+
+![image](https://github.com/user-attachments/assets/75ea9668-bdea-4c57-b92f-759b2c8006e7)
+<br>
+FrmOgrenciDetay formunda yer alan kodlar bu şekildedir. Program çalıştırıldığı zaman herhangi bir öğrencinin numarası girildiği zaman sınav bilgileri yer alacaktır.<br><br>
 
 
 

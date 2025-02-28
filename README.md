@@ -12,7 +12,7 @@ Veri tabanımızın ismini DbNotKayit olarak belirliyoruz.<br><br>
 
 ![image](https://github.com/user-attachments/assets/89a6e970-5fc3-45fb-9df5-1ee66c07fec3)
 <br>
-İlk tablomuzun ismini TBLDERS olarak belirliyoruz.<br><br>
+Tablomuzun ismini TBLDERS olarak belirliyoruz.<br><br>
 
 ![image](https://github.com/user-attachments/assets/ee0ee229-3570-4573-a66e-d9cc1e8387c5)
 <br>

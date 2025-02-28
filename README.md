@@ -66,5 +66,21 @@ Projemize SQL bağlantısı ekliyoruz. SQL bağlantı ekleme işlemi CSharpEduca
 <br>
 FrmOgrenciDetay formunda yer alan kodlar bu şekildedir. Program çalıştırıldığı zaman herhangi bir öğrencinin numarası girildiği zaman sınav bilgileri yer alacaktır.<br><br>
 
+🗒️ FrmOgretmenDetay formunda yer alan kod örnekleri ve çıktıları;<br><br>
 
+![image](https://github.com/user-attachments/assets/52dfada7-af1f-4fc2-81f2-64b58e573f3d)
+<br>
 
+![image](https://github.com/user-attachments/assets/75cee505-b51c-43f3-9513-86f62bd95aaa)
+<br>
+
+![image](https://github.com/user-attachments/assets/217c8895-156f-45e5-80c7-3b4a482aaf0e)
+<br>
+
+![image](https://github.com/user-attachments/assets/787841dc-502d-4328-90f2-0af32c8ccb2a)
+<br>
+
+![image](https://github.com/user-attachments/assets/c218f43d-29c3-413f-91f5-cb485057c51a)
+<br>
+
+<hr>

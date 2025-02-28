@@ -1,4 +1,4 @@
-# <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> C# ile 25 Derste 25 Uygulamalı Proje
+# <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> ile 25 Derste 25 Uygulamalı Proje
 
 👋 Merhabalar, oluşturmuş olduğum bu repo, Udemy'de Murat Yücedağ tarafından verilen C# ile 25 Derste 25 Uygulamalı Proje adlı kursta yapmış olduğum sorguları içermektedir. Bu eğitimde C# ve MSSQL ile yapılan projeler anlatılmaktadır.
 <br><hr>

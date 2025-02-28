@@ -3,7 +3,7 @@
 👋 Merhabalar, oluşturmuş olduğum bu repo, Udemy'de Murat Yücedağ tarafından verilen C# ile 25 Derste 25 Uygulamalı Proje adlı kursta yapmış olduğum sorguları içermektedir. Bu eğitimde C# ve MSSQL ile yapılan projeler anlatılmaktadır.
 <br><hr>
 
-# 🖥️ Bölüm 1 - Öğrenci Sınav Not Kayıt Sistemi
+# 🖥️ Proje 1 - Öğrenci Sınav Not Kayıt Sistemi
 Bu projenin amacı; her öğrencinin kendi numarasıyla sisteme giriş yaptıktan sonra kendi notlarını görüntülediği, öğretmenin de, öğrencilerin sınav notları üzerinde değişiklik yapabildiği, not ekleyebildiği, var olan bir sınav notunu silebildiği gibi işlemlerini gerçekleştiren bir not kayıt sistemidir.<br><br>
 
 ![image](https://github.com/user-attachments/assets/f01590b6-013d-4fc4-bf19-76af18c6e64e)

@@ -1,0 +1,2 @@
+﻿Yeni bir satış işlemi yapılacak. Ürün, Müşteri, Personel ComboBox'lardan seçilecek.
+ValueMember ve DisplayMember kavramlarını araştırın.

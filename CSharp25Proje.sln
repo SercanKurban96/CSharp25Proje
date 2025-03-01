@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje04_DovizOfisi", "Proje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje05_FilmArsivim", "Proje05_FilmArsivim\Proje05_FilmArsivim.csproj", "{6C46768E-3C88-4273-B801-5372C871DBDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje06_IliskiliHareketler", "Proje06_IliskiliHareketler\Proje06_IliskiliHareketler.csproj", "{6DF5D699-DE4D-46A3-8309-949153FB5B41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6C46768E-3C88-4273-B801-5372C871DBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C46768E-3C88-4273-B801-5372C871DBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C46768E-3C88-4273-B801-5372C871DBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF5D699-DE4D-46A3-8309-949153FB5B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF5D699-DE4D-46A3-8309-949153FB5B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF5D699-DE4D-46A3-8309-949153FB5B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF5D699-DE4D-46A3-8309-949153FB5B41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

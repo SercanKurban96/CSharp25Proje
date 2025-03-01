@@ -104,7 +104,7 @@ Tablomuzun ismini TBLILCE olarak belirledik.<br><br>
 <br>
 Projemizin ismini Proje02_VeriTabanliPartiSecimGrafikIstatistik olarak belirledik.<br><br>
 
-### 🗒️ Projeye ait birkaç ekran görüntüleri:
+### 🗒️ Projeye ait ekran görüntüleri:
 
 ![image](https://github.com/user-attachments/assets/caca65a3-3347-4f08-b613-afe98b1acfd9)
 <br>
@@ -121,6 +121,73 @@ FrmGrafikler formumuzu bu şekilde tasarladık. Burada partilerin yanlarına bir
 <br>
 
 ![image](https://github.com/user-attachments/assets/4c9b6405-0d70-4c36-9983-2f2242641d10)
+<br><br>
+
+<hr>
+
+# 🖥️ Proje 3 - Passaparola Oyunu
+## 📌 Nasıl Oynanır?
+
+📍 Alfabedeki harflerden A ya tıklanır. (Rastgele bir harften de başlayabilirsiniz.)<br>
+📍 Yarışmacıdan, tıklanan sorunun cevabı yazılması beklenir. (Hangi harfe tıklamışsanız cevap o harfle başlar)<br>
+📍 Sorunun cevabı alttaki alana yazılır ve cevaplanır.<br>
+📍 Sorunun cevabını bilemediğinizde pas deyip başka soruyu cevaplanabilir. Pas geçilen soru daha sonra tekrar cevaplanabilir. Hatalı cevaplanan sorular tekrar cevaplanamaz.<br>
+📍 İşlem tüm harfler için uygulanır. Sorular cevaplandıktan sonra isteğe bağlı olarak skor kaydedilir.<br><br>
+
+### 🗒️ Projeye ait ekran görüntüleri:
+![image](https://github.com/user-attachments/assets/ade16bac-0ea6-40a8-b3b8-8e93d1c7b714)
+<br>
+
+![image](https://github.com/user-attachments/assets/6e611bd3-681e-48b9-85d5-6f16c6774767)
+<br>
+
+![image](https://github.com/user-attachments/assets/0a90de0c-1da5-4823-b8ee-53768d7fe9e5)
+<br>
+
+![image](https://github.com/user-attachments/assets/e5827279-bbf8-4cf1-8831-58de58f2804e)
+<br>
+
+![image](https://github.com/user-attachments/assets/30172a54-3d7b-4dad-a8dd-4c52e28482c6)
+<br>
+
+![image](https://github.com/user-attachments/assets/eb967524-7b76-4dc0-985f-44034ab752cd)
+<br>
+
+![image](https://github.com/user-attachments/assets/1d1f5655-bbd6-4fca-8329-3b893c04939c)
+<br><br>
+
+<hr>
+
+# 🖥️ Proje 4 - XML Kullanımı ve Döviz Ofisi Uygulaması
+Bu projede döviz çekme işlemini gerçekleştireceğiz. Burada Merkez Bankası'nın Döviz Kurları sitesinden döviz kurlarını çekme işlemini yapıyoruz.<br><br>
+
+Türkiye Cumhuriyeti Merkez Bankası Kurları: https://www.tcmb.gov.tr/kurlar/today.xml
+<br><br>
+
+![image](https://github.com/user-attachments/assets/cd2e8f32-39b3-4275-b4c2-b4474d73769f)
+<br>
+
+![image](https://github.com/user-attachments/assets/1d278ec8-a694-49dd-bed2-6cd249c5036e)
+<br>
+Buradaki verilere ait kodları görüntüleyebilmek için sağ tıklayıp "Sayfa Kaynağını Görüntüle" diyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/0137e3a9-a967-474d-a6db-c8bddec231e2)
+<br>
+
+![image](https://github.com/user-attachments/assets/7016b0e8-be5f-43ef-aaae-cc08325d71d6)
+<br>
+Burada kullanacağımız verileri seçip ilgili kodlamamızı yapıyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/e37ed137-06a6-4561-8ed6-75ffeddfc885)
+<br>
+
+![image](https://github.com/user-attachments/assets/2eff5d01-3674-4b81-a578-10cf9af14efe)
+<br>
+
+![image](https://github.com/user-attachments/assets/b8a6feb9-2b14-47c1-a345-7e13feadf565)
+<br>
+
+![image](https://github.com/user-attachments/assets/fe5ebdea-0f35-4ab3-a43c-e54958d3dd2a)
 <br><br>
 
 <hr>

@@ -1,0 +1,2 @@
+﻿RENK DEĞİŞ kısmında bir tane dizi oluşturup 10 tane renk girilecektir. Butona tıklandığı zaman formun arka plan rengini rastgele gösterecektir.
+TAM EKRAN kısmı ise butona tıklandığı zaman yeni bir forma gidecektir.

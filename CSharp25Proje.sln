@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje03_Passaparola", "Proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje04_DovizOfisi", "Proje04_DovizOfisi\Proje04_DovizOfisi.csproj", "{3A8CD68A-C1BD-4EC8-B1F8-B51315F247A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje05_FilmArsivim", "Proje05_FilmArsivim\Proje05_FilmArsivim.csproj", "{6C46768E-3C88-4273-B801-5372C871DBDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3A8CD68A-C1BD-4EC8-B1F8-B51315F247A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8CD68A-C1BD-4EC8-B1F8-B51315F247A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8CD68A-C1BD-4EC8-B1F8-B51315F247A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C46768E-3C88-4273-B801-5372C871DBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C46768E-3C88-4273-B801-5372C871DBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C46768E-3C88-4273-B801-5372C871DBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C46768E-3C88-4273-B801-5372C871DBDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,7 @@
 <br><hr>
 
 # 🖥️ Proje 1 - Öğrenci Sınav Not Kayıt Sistemi
-Bu projenin amacı; her öğrencinin kendi numarasıyla sisteme giriş yaptıktan sonra kendi notlarını görüntülediği, öğretmenin de, öğrencilerin sınav notları üzerinde değişiklik yapabildiği, not ekleyebildiği, var olan bir sınav notunu silebildiği gibi işlemlerini gerçekleştiren bir not kayıt sistemidir.<br><br>
+Bu projenin amacı; her öğrencinin kendi numarasıyla sisteme giriş yaptıktan sonra kendi notlarını görüntülediği, öğretmenin de öğrenci eklemeyi, öğrencilerin sınav notları üzerinde değişiklik yapabildiği, not ekleyebildiği gibi işlemlerini gerçekleştiren bir not kayıt sistemidir.<br><br>
 
 ![image](https://github.com/user-attachments/assets/f01590b6-013d-4fc4-bf19-76af18c6e64e)
 <br>
@@ -66,5 +66,62 @@ Projemize SQL bağlantısı ekliyoruz. SQL bağlantı ekleme işlemi CSharpEduca
 <br>
 FrmOgrenciDetay formunda yer alan kodlar bu şekildedir. Program çalıştırıldığı zaman herhangi bir öğrencinin numarası girildiği zaman sınav bilgileri yer alacaktır.<br><br>
 
+🗒️ FrmOgretmenDetay formunda yer alan kod örnekleri ve çıktıları;<br><br>
 
+![image](https://github.com/user-attachments/assets/52dfada7-af1f-4fc2-81f2-64b58e573f3d)
+<br>
+
+![image](https://github.com/user-attachments/assets/75cee505-b51c-43f3-9513-86f62bd95aaa)
+<br>
+
+![image](https://github.com/user-attachments/assets/217c8895-156f-45e5-80c7-3b4a482aaf0e)
+<br>
+
+![image](https://github.com/user-attachments/assets/787841dc-502d-4328-90f2-0af32c8ccb2a)
+<br>
+
+![image](https://github.com/user-attachments/assets/c218f43d-29c3-413f-91f5-cb485057c51a)
+<br>
+
+<hr>
+
+# 🖥️ Proje 2 - Seçim İstatistik ve Grafik Sistemi
+Bu projenin amacı; İstanbul'daki 5 farklı ilçede 5 farklı partinin seçim sonuçlarını grafiklerle, progressbar (durum çubuğu) ve istatistik bazında C# formda listeleyip gösterdiğimiz bir uygulamadır. Örneğin; 1. parti hayvan haklarını koruma derneğini, çocuk haklarını koruma derneğini vs. başkan seçilme işlemi yapılacaktır.<br><br>
+
+📍 Partiler: A-B-C-D-E<br>
+📍 İl: İstanbul<br>
+📍 İlçeler: Şişli, Kadıköy, Beşiktaş, Beyoğlu, Sarıyer<br><br>
+
+![image](https://github.com/user-attachments/assets/97101051-77cd-4986-9f31-631ade2d04c9)
+<br>
+Veri tabanımızın ismini DbSecimProje olarak belirliyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/8e1935e7-458d-475d-b789-23c244a3bf6c)
+<br>
+Tablomuzun ismini TBLILCE olarak belirledik.<br><br>
+
+![image](https://github.com/user-attachments/assets/54b5388a-04af-4291-b841-e471bd994047)
+<br>
+Projemizin ismini Proje02_VeriTabanliPartiSecimGrafikIstatistik olarak belirledik.<br><br>
+
+### 🗒️ Projeye ait birkaç ekran görüntüleri:
+
+![image](https://github.com/user-attachments/assets/caca65a3-3347-4f08-b613-afe98b1acfd9)
+<br>
+Form1 ismini FrmOyGiris olarak değiştirdik ve tasarımı bu şekilde tasarladık.<br><br>
+
+![image](https://github.com/user-attachments/assets/905068fe-ca7f-49cf-847d-a75397c7de9a)
+<br>
+FrmGrafikler formumuzu bu şekilde tasarladık. Burada partilerin yanlarına birer tane ProgressBar aracı ekledik. ProgressBar aracının özelliğinde yer alan Maximum kısmını 200 olarak belirledik.<br><br>
+
+![image](https://github.com/user-attachments/assets/003050be-8d8c-4856-8002-a0c5e4564b34)
+<br>
+
+![image](https://github.com/user-attachments/assets/3f2f2624-37ab-4db3-bdfc-98cbe094ad6c)
+<br>
+
+![image](https://github.com/user-attachments/assets/4c9b6405-0d70-4c36-9983-2f2242641d10)
+<br><br>
+
+<hr>
 

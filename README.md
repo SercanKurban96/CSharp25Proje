@@ -211,3 +211,60 @@ Burada ID değerini otomatik artan ve DURUM sütununda yer alan bit değerini va
 
 <hr>
 
+# 🖥️ Proje 6 - İlişkili Veri Tabanı Hareket Tablo ve Sorgulama Uygulaması
+Burada ilişkiyi ve alt sorguları kullanarak bir uygulama geliştireceğiz.<br><br>
+
+### 🗒️ Kullanacağımız tablolar
+📍 Ürün<br>
+📍 Müşteri<br>
+📍 Satıcı<br>
+📍 Hareket<br><br>
+
+![image](https://github.com/user-attachments/assets/8b948965-b9ac-485c-9a27-fa2133e9df2b)
+<br>
+Veri tabanın ismini DbIliskiliHareket olarak belirliyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/52d1bfd7-75a0-4b2c-b8cc-fa81befa54f0)
+<br>
+
+![image](https://github.com/user-attachments/assets/08a5bdde-c04b-45df-b9d8-aae03a6ef19a)
+<br>
+
+![image](https://github.com/user-attachments/assets/fa3136bb-310c-4094-b98d-ccb92b8830f4)
+<br>
+
+![image](https://github.com/user-attachments/assets/1942b295-fd28-4037-90b5-8a842aed1411)
+<br>
+Tablolarımız ve ilişkili diyagramımız bu şekilde olacaktır.<br><br>
+
+![image](https://github.com/user-attachments/assets/a29c98b8-a41f-427e-964e-6dc17711034b)
+<br>
+
+![image](https://github.com/user-attachments/assets/084e895f-899a-4938-a4d7-7cd8c4c3ca0f)
+<br>
+
+![image](https://github.com/user-attachments/assets/d2ec69d7-cbe7-48c7-b49f-aa7ecd663054)
+<br>
+
+![image](https://github.com/user-attachments/assets/d96eecad-3e1d-4e88-b15d-aacb1f78422e)
+<br>
+Örnek veri girişlerimizi yaptık.<br><br>
+
+![image](https://github.com/user-attachments/assets/eab57b38-c5a2-4a66-93e0-991ac7e88894)
+<br>
+
+![image](https://github.com/user-attachments/assets/8b3e5417-a6fa-4966-a39e-87ae712c6583)
+<br>
+Örnek sorgularla birleştirme işlemleri ve prosedür oluşturma işlemi bu şekildedir.<br><br>
+
+![image](https://github.com/user-attachments/assets/ad8b5107-5140-4594-b999-43b093b5f1d3)
+<br>
+
+![image](https://github.com/user-attachments/assets/2ea4892e-0fda-4c5d-aa7c-39db1653754f)
+<br><br>
+
+<hr>
+
+
+
+

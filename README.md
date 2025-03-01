@@ -203,3 +203,11 @@ Veri tabanımızın ismini DbFilmArsivim olarak belirliyoruz.<br><br>
 <br>
 Burada ID değerini otomatik artan ve DURUM sütununda yer alan bit değerini varsayılan olarak 0 yapıyoruz ve ismini TBLFILMLER diyoruz.<br><br>
 
+![image](https://github.com/user-attachments/assets/57749172-ba4c-4090-b6c7-612b1c0e2d2a)
+<br>
+
+![image](https://github.com/user-attachments/assets/b1fd268e-b9fc-400e-8a61-733afda3b412)
+<br><br>
+
+<hr>
+

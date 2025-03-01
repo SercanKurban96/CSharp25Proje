@@ -192,3 +192,14 @@ Burada kullanacağımız verileri seçip ilgili kodlamamızı yapıyoruz.<br><br
 
 <hr>
 
+# 🖥️ Proje 5 - Masaüstü Kişisel Film Arşiv ve İzleme Sistemi
+Bu projede bir film fragman uygulamasını gerçekleştireceğiz. Amaç; YouTube'daki favorilediğimiz filmleri bir çatı altında toplamak ve film aramadan bir butonla izleyebilmemizi sağlamaktır.<br><br>
+
+![image](https://github.com/user-attachments/assets/fc4fc6bd-d1c3-4447-8561-5bb8936437fe)
+<br>
+Veri tabanımızın ismini DbFilmArsivim olarak belirliyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/28622f17-328e-4bdd-a077-ee7efea41157)
+<br>
+Burada ID değerini otomatik artan ve DURUM sütununda yer alan bit değerini varsayılan olarak 0 yapıyoruz ve ismini TBLFILMLER diyoruz.<br><br>
+

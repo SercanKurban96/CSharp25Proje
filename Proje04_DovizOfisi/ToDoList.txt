@@ -1,0 +1,4 @@
+﻿Bu projeyi SQL'de bir tabloya geçiriyoruz.
+Tabloda 3 alan olacaktır. TL, EURO ve DOLAR olacaktır. Bunlar hafızadaki miktarlar, yani kasadaki miktarlar olacaktır.
+Burada her işlem yaptığımızda dolar bozdurmak istediğinde bizim kasadaki TL azalacak, dolar artacaktır.
+İki buton için tek tek işlemler yapılacaktır.

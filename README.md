@@ -158,3 +158,37 @@ FrmGrafikler formumuzu bu şekilde tasarladık. Burada partilerin yanlarına bir
 
 <hr>
 
+# 🖥️ Proje 4 - XML Kullanımı ve Döviz Ofisi Uygulaması
+Bu projede döviz çekme işlemini gerçekleştireceğiz. Burada Merkez Bankası'nın Döviz Kurları sitesinden döviz kurlarını çekme işlemini yapıyoruz.<br><br>
+
+Türkiye Cumhuriyeti Merkez Bankası Kurları: https://www.tcmb.gov.tr/kurlar/today.xml
+<br><br>
+
+![image](https://github.com/user-attachments/assets/cd2e8f32-39b3-4275-b4c2-b4474d73769f)
+<br>
+
+![image](https://github.com/user-attachments/assets/1d278ec8-a694-49dd-bed2-6cd249c5036e)
+<br>
+Buradaki verilere ait kodları görüntüleyebilmek için sağ tıklayıp "Sayfa Kaynağını Görüntüle" diyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/0137e3a9-a967-474d-a6db-c8bddec231e2)
+<br>
+
+![image](https://github.com/user-attachments/assets/7016b0e8-be5f-43ef-aaae-cc08325d71d6)
+<br>
+Burada kullanacağımız verileri seçip ilgili kodlamamızı yapıyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/e37ed137-06a6-4561-8ed6-75ffeddfc885)
+<br>
+
+![image](https://github.com/user-attachments/assets/2eff5d01-3674-4b81-a578-10cf9af14efe)
+<br>
+
+![image](https://github.com/user-attachments/assets/b8a6feb9-2b14-47c1-a345-7e13feadf565)
+<br>
+
+![image](https://github.com/user-attachments/assets/fe5ebdea-0f35-4ab3-a43c-e54958d3dd2a)
+<br><br>
+
+<hr>
+

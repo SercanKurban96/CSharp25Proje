@@ -104,7 +104,7 @@ Tablomuzun ismini TBLILCE olarak belirledik.<br><br>
 <br>
 Projemizin ismini Proje02_VeriTabanliPartiSecimGrafikIstatistik olarak belirledik.<br><br>
 
-### 🗒️ Projeye ait birkaç ekran görüntüleri:
+### 🗒️ Projeye ait ekran görüntüleri:
 
 ![image](https://github.com/user-attachments/assets/caca65a3-3347-4f08-b613-afe98b1acfd9)
 <br>
@@ -121,6 +121,39 @@ FrmGrafikler formumuzu bu şekilde tasarladık. Burada partilerin yanlarına bir
 <br>
 
 ![image](https://github.com/user-attachments/assets/4c9b6405-0d70-4c36-9983-2f2242641d10)
+<br><br>
+
+<hr>
+
+# 🖥️ Proje 3 - Passaparola Oyunu
+## 📌 Nasıl Oynanır?
+
+📍 Alfabedeki harflerden A ya tıklanır. (Rastgele bir harften de başlayabilirsiniz.)<br>
+📍 Yarışmacıdan, tıklanan sorunun cevabı yazılması beklenir. (Hangi harfe tıklamışsanız cevap o harfle başlar)<br>
+📍 Sorunun cevabı alttaki alana yazılır ve cevaplanır.<br>
+📍 Sorunun cevabını bilemediğinizde pas deyip başka soruyu cevaplanabilir. Pas geçilen soru daha sonra tekrar cevaplanabilir. Hatalı cevaplanan sorular tekrar cevaplanamaz.<br>
+📍 İşlem tüm harfler için uygulanır. Sorular cevaplandıktan sonra isteğe bağlı olarak skor kaydedilir.<br><br>
+
+### 🗒️ Projeye ait ekran görüntüleri:
+![image](https://github.com/user-attachments/assets/ade16bac-0ea6-40a8-b3b8-8e93d1c7b714)
+<br>
+
+![image](https://github.com/user-attachments/assets/6e611bd3-681e-48b9-85d5-6f16c6774767)
+<br>
+
+![image](https://github.com/user-attachments/assets/0a90de0c-1da5-4823-b8ee-53768d7fe9e5)
+<br>
+
+![image](https://github.com/user-attachments/assets/e5827279-bbf8-4cf1-8831-58de58f2804e)
+<br>
+
+![image](https://github.com/user-attachments/assets/30172a54-3d7b-4dad-a8dd-4c52e28482c6)
+<br>
+
+![image](https://github.com/user-attachments/assets/eb967524-7b76-4dc0-985f-44034ab752cd)
+<br>
+
+![image](https://github.com/user-attachments/assets/1d1f5655-bbd6-4fca-8329-3b893c04939c)
 <br><br>
 
 <hr>

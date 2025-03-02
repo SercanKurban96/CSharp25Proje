@@ -265,6 +265,21 @@ Tablolarımız ve ilişkili diyagramımız bu şekilde olacaktır.<br><br>
 
 <hr>
 
+# 🖥️ Proje 7 - Kelime Öğren! Access Kelime İngilizce Kelime Öğrenme Uygulaması
+Bu projede Access veri tabanını kullanarak bir Türkçe-İngilizce kelime öğrenme uygulaması geliştireceğiz. Amaç, 90 saniyede gelen ingilizce kelimeleri bilmeye çalışmaktır.<br><br>
+
+![image](https://github.com/user-attachments/assets/e3c85459-253e-477b-8469-795f2b14a816)
+<br>
+Burada label4'ü eklememizin sebebi Türkçe'ye karşılık gelen textBox metninin eşleştirmesini sağlamaktır, ancak burada label4'ün özellik kısmının Visible özelliğin false olarak ayarladık.<br><br>
+
+![image](https://github.com/user-attachments/assets/912bc37a-d517-4447-8071-e8597c288649)
+<br>
+
+![image](https://github.com/user-attachments/assets/98887174-ad7e-4476-a80f-807437ac43df)
+<br><br>
+
+<hr>
+
 
 
 

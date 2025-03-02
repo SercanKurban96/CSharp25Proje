@@ -352,6 +352,38 @@ Tablolarımızı ve diyagramımızı oluşturduk.<br><br>
 
 <hr>
 
+# 🖥️ Proje 11 - Kullanıcılar Arası Veri Tabanı Bağlantısı ile Mesajlaşma Sistemi
+Bir önceki projemizde oluşturduğumuz veri tabanı üzerinden devam ediyoruz. Burada 2 tane daha tablo ekliyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/980c6adf-af9c-40af-a900-f52fe453a74e)
+<br>
+
+![image](https://github.com/user-attachments/assets/2adeff2f-6890-4323-875a-f653cbc13f02)
+<br>
+Tablolarımızı bu şekilde oluşturduk.<br><br>
+
+![image](https://github.com/user-attachments/assets/687321fb-0332-4323-a358-3ec112f7ce32)
+<br>
+
+![image](https://github.com/user-attachments/assets/b58ca1bf-3f49-4a10-a99f-034e3bdf0452)
+<br>
+
+![image](https://github.com/user-attachments/assets/2e90d0b1-fabe-43bd-b115-506ccf9fa3fa)
+<br>
+
+![image](https://github.com/user-attachments/assets/44e8ab8e-6296-4364-b988-3ffebc2d9543)
+<br>
+
+![image](https://github.com/user-attachments/assets/a6db6f81-61e8-4925-a210-9de9302e8764)
+<br>
+
+![image](https://github.com/user-attachments/assets/1bcbb63c-1303-4631-af59-4ab069f66861)
+<br>
+
+![image](https://github.com/user-attachments/assets/14420d2c-03f0-403f-831b-8bee151a624a)
+<br><br>
+
+<hr>
 
 
 

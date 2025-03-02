@@ -280,6 +280,23 @@ Burada label4'ü eklememizin sebebi Türkçe'ye karşılık gelen textBox metnin
 
 <hr>
 
+# 🖥️ Proje 8 - İki Boyutlu Nesneleri Form Üzerinde Koordinat ve Hareketleri
+📍 Form arka plan rengi: Silver<br>
+📍 Kullanılan Araçlar: 7 tane Panel (bariyerler için arka plan rengi beyaz), 2 tane PictureBox (nesneyi hareket ettirmek için GIF dosyası olarak kullanıldı.), 12 tane Timer<br>
+:warning: PictureBox konumlarına bakmak için PictureBox'a ait özellikler kısmından Location'a bakılır (x, y).<br><br>
+
+![image](https://github.com/user-attachments/assets/142215b9-8d2a-4979-8050-e0074984f2d1)
+<br>
+
+![image](https://github.com/user-attachments/assets/c13e9995-a392-4fcd-8726-97426cef19c6)
+<br><br>
+
+<hr>
+
+
+
+
+
 
 
 

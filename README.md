@@ -296,6 +296,30 @@ Burada label4'ü eklememizin sebebi Türkçe'ye karşılık gelen textBox metnin
 
 <hr>
 
+# 🖥️ Proje 9 - Veri Tabanı ile Mail ve Telefon Rehber Kayıt Modülü
+Bu projede MSSQL kullanarak bir tane Rehber Kayıt Modülü geliştireceğiz. Veri tabanımızın ismini DbRehber olarak belirledik.<br><br>
+
+![image](https://github.com/user-attachments/assets/cf26b135-49b1-4b84-a9f3-4fd3c05cc7bd)
+<br>
+Daha sonradan FOTOGRAF isminde bir sütun ekleyeceğiz.<br><br>
+
+![image](https://github.com/user-attachments/assets/5a8ac219-e2ab-4fc4-a019-6ab8f50e564d)
+<br>
+
+![image](https://github.com/user-attachments/assets/7e8eca82-eae3-4044-be3f-994fcdf78522)
+<br>
+
+![image](https://github.com/user-attachments/assets/480ce776-c4b4-4624-b50c-72e4e70112e0)
+<br>
+
+![image](https://github.com/user-attachments/assets/452f75d1-3e3a-463c-b49a-fccec6c6d4a1)
+<br>
+
+![image](https://github.com/user-attachments/assets/637b8b57-4ec4-47b3-a325-43c6986540e9)
+<br><br>
+
+<hr>
+
 
 
 

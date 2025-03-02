@@ -344,6 +344,9 @@ Tablolarımızı ve diyagramımızı oluşturduk.<br><br>
 ![image](https://github.com/user-attachments/assets/fae9072e-49f2-494e-87ca-055789165b14)
 <br>
 
+![image](https://github.com/user-attachments/assets/d500e060-c013-4f22-90ee-68388d9aea6b)
+<br>
+
 ![image](https://github.com/user-attachments/assets/e642038e-278b-45f6-ba36-29e7962bd918)
 <br><br>
 

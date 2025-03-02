@@ -301,7 +301,7 @@ Bu projede MSSQL kullanarak bir tane Rehber Kayıt Modülü geliştireceğiz. Ve
 
 ![image](https://github.com/user-attachments/assets/cf26b135-49b1-4b84-a9f3-4fd3c05cc7bd)
 <br>
-Daha sonradan FOTOGRAF isminde bir sütun ekleyeceğiz.<br><br>
+Daha sonradan FOTOGRAF isminde bir sütun ekleyeceğiz ve veri tipini varchar(100) olarak belirleyeceğiz.<br><br>
 
 ![image](https://github.com/user-attachments/assets/5a8ac219-e2ab-4fc4-a019-6ab8f50e564d)
 <br>

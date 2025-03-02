@@ -1,0 +1,2 @@
+﻿Access veri tabanında bir tane daha tablo oluşturulacaktır. Bir tane de giriş formu oluşturulacaktır.
+Bu formda kullanıcının ismi alınacaktır. Örneğin: Ali sisteme giriş yaptı. Başlangıçta kullanıcı adı gelecektir. Oyun bittiği zaman kullanıcının kaç tane doğru bildiğini veri tabanına kaydedilecektir.

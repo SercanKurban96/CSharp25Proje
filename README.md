@@ -385,7 +385,32 @@ Tablolarımızı bu şekilde oluşturduk.<br><br>
 
 <hr>
 
+# 🖥️ Proje 12 - Form Üzerinde SQL Sorguları Çalıştırma Uygulaması (Mini SQL Derleyicisi)
+Burada veri tabanı ve o veri tabanına ait tabloları seçme işlemini uyguluyoruz.<br><br>
 
+![image](https://github.com/user-attachments/assets/4ea91320-28bd-405b-88e4-f8764656f0cd)
+<br>
 
+![image](https://github.com/user-attachments/assets/b376bcf9-4958-4a69-9020-3d1f09457190)
+<br>
 
+![image](https://github.com/user-attachments/assets/1a9504d2-8f3c-4be4-a4ba-8dfda7be3009)
+<br>
+
+![image](https://github.com/user-attachments/assets/b80453da-8993-4eeb-b433-b63d89af520b)
+<br>
+
+![image](https://github.com/user-attachments/assets/5a210e6a-3654-4c38-9e57-92b6a816ad61)
+<br>
+
+![image](https://github.com/user-attachments/assets/7662eda1-7846-4cdb-b557-84adc397c1c9)
+<br>
+
+![image](https://github.com/user-attachments/assets/8ffb22ed-37fb-4009-816b-663bb1009eba)
+<br>
+
+![image](https://github.com/user-attachments/assets/4f2831d3-1086-4b8a-bbac-89a91befe349)
+<br><br>
+
+<hr>
 

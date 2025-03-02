@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje10_HareketTablosu", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje11_MesajTest", "Proje11_MesajTest\Proje11_MesajTest.csproj", "{2CC88E09-57DE-436E-9532-FED9F62F5A95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje12_SorguTest", "Proje12_SorguTest\Proje12_SorguTest.csproj", "{AFFF021C-5976-4629-9C9E-439C9891867C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2CC88E09-57DE-436E-9532-FED9F62F5A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC88E09-57DE-436E-9532-FED9F62F5A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC88E09-57DE-436E-9532-FED9F62F5A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFFF021C-5976-4629-9C9E-439C9891867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFF021C-5976-4629-9C9E-439C9891867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFF021C-5976-4629-9C9E-439C9891867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFF021C-5976-4629-9C9E-439C9891867C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

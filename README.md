@@ -320,7 +320,34 @@ Daha sonradan FOTOGRAF isminde bir sütun ekleyeceğiz ve veri tipini varchar(10
 
 <hr>
 
+# 🖥️ Proje 10 - İlişkili Tablolar ile Birleştirme Uygulamaları
+Bu projede MSSQL üzerinden ilerleyeceğiz ve yazdığımız sorgudan sonra C# üzerinden DataGridView üzerinden göstereceğiz.<br><br>
 
+Bir tane veri tabanı oluşturuyoruz, burada DbProje10 ismini verdik. Siz istediğiniz ismi verebilirsiniz. Ardından tablolarımızı oluşturuyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/276a9fec-03af-4098-9cd9-22d63c7289b6)
+<br>
+
+![image](https://github.com/user-attachments/assets/7776dc5b-014e-4790-b4b9-8a8e622b3040)
+<br>
+
+![image](https://github.com/user-attachments/assets/2363498a-6e32-4ff1-be82-41cfe6a11af9)
+<br>
+
+![image](https://github.com/user-attachments/assets/ebedecdc-2b1b-42fc-b8ea-4b10581574f9)
+<br>
+
+![image](https://github.com/user-attachments/assets/12f9e9f1-0621-407d-906c-58d689f83294)
+<br>
+Tablolarımızı ve diyagramımızı oluşturduk.<br><br>
+
+![image](https://github.com/user-attachments/assets/fae9072e-49f2-494e-87ca-055789165b14)
+<br>
+
+![image](https://github.com/user-attachments/assets/e642038e-278b-45f6-ba36-29e7962bd918)
+<br><br>
+
+<hr>
 
 
 

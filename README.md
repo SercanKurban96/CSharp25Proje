@@ -285,6 +285,9 @@ Burada label4'ü eklememizin sebebi Türkçe'ye karşılık gelen textBox metnin
 📍 Kullanılan Araçlar: Panel (bariyerler için arka plan rengi beyaz), PictureBox (nesneyi hareket ettirmek için GIF dosyası olarak kullanıldı.), Timer<br>
 :warning: PictureBox konumlarına bakmak için PictureBox'a ait özellikler kısmından Location'a bakılır (x, y).<br><br>
 
+![image](https://github.com/user-attachments/assets/beb50bd0-d7b3-463f-85c8-37a0933306e0)
+<br>
+
 ![image](https://github.com/user-attachments/assets/142215b9-8d2a-4979-8050-e0074984f2d1)
 <br>
 

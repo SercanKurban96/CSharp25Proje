@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje07_KelimeOgren", "Proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje08_NesneHareketler", "Proje08_NesneHareketler\Proje08_NesneHareketler.csproj", "{28A6185F-4BEB-4A55-B35C-7422784C6075}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje09_Rehber", "Proje09_Rehber\Proje09_Rehber.csproj", "{623539AD-3D41-4BB9-A06B-1602C1FBEA77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{28A6185F-4BEB-4A55-B35C-7422784C6075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A6185F-4BEB-4A55-B35C-7422784C6075}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A6185F-4BEB-4A55-B35C-7422784C6075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623539AD-3D41-4BB9-A06B-1602C1FBEA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623539AD-3D41-4BB9-A06B-1602C1FBEA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623539AD-3D41-4BB9-A06B-1602C1FBEA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623539AD-3D41-4BB9-A06B-1602C1FBEA77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

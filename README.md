@@ -414,3 +414,32 @@ Burada veri tabanı ve o veri tabanına ait tabloları seçme işlemini uyguluyo
 
 <hr>
 
+# 🖥️ Proje 13 - Veri Tabanı Verileri Şifreleme ve Şifreli Verileri Çözme Uygulaması
+
+![image](https://github.com/user-attachments/assets/ad7c859a-fad0-471b-a6db-a0040235b351)
+<br>
+Burada en son oluşturduğumuz Proje10 veri tabanı üzerinden devam ediyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/23b29a6b-317d-4efc-ae26-a79dbcfa56ce)
+<br>
+Tabloyu bu şekilde oluşturduk.<br><br>
+
+![image](https://github.com/user-attachments/assets/a4e49319-54a7-43e7-bfd1-12d0b40fd3ce)
+<br>
+Formumuzun tasarımını bu şekilde oluşturduk. Yazacağımız verilerin şifreleme işlemini label6'da göstereceğiz.<br><br>
+
+![image](https://github.com/user-attachments/assets/3224f5f5-dbac-4d42-aa70-db6c97cf4bb3)
+<br>
+Örnek şifreleme işleminin kodları bu şekildedir.<br><br>
+
+![image](https://github.com/user-attachments/assets/4e974eef-53fd-40c6-8cdc-2aa548735bce)
+<br>
+
+![image](https://github.com/user-attachments/assets/ef63a4fc-bc74-49c7-b361-c92ae8d02b6f)
+<br>
+
+![image](https://github.com/user-attachments/assets/597d4cbb-d15f-4a96-8d0c-192995842af5)
+<br><br>
+
+<hr>
+

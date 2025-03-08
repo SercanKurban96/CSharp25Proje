@@ -471,5 +471,15 @@ Burada kullanıcının hesap bilgilerini görüntüleyebilme ve para gönderme i
 <br>
 Burada yeni bir hesap oluşturuyoruz.<br><br>
 
+![image](https://github.com/user-attachments/assets/ca3f4edd-e305-449e-abdc-9c4d7a1b8486)
+<br>
+
+![image](https://github.com/user-attachments/assets/978133b1-1919-4427-ac2e-346e56fa5737)
+<br><br>
+
+<hr>
+
+
+
 
 

@@ -503,6 +503,17 @@ TBLETUT tablosunda DURUM kısmı Default olarak 0 belirlenmiştir.<br><br>
 ![image](https://github.com/user-attachments/assets/e1b5cbba-ad34-419b-b669-c27a1d7d2d4f)
 <br>
 
+![image](https://github.com/user-attachments/assets/4a85afa4-39a3-498c-8861-5fc97bafb367)
+<br>
+
+![image](https://github.com/user-attachments/assets/a8cb06ba-407b-485f-97d0-97102f86ecb2)
+<br>
+
+![image](https://github.com/user-attachments/assets/e0a22897-de16-4d90-adb5-1b8c65e05944)
+<br><br>
+
+<hr>
+
 
 
 

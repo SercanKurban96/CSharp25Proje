@@ -1,0 +1,3 @@
+﻿Random olarak oluşturulan Hesap No veri tabanında varsa bir uyarı mesajı verecek ve yeniden random oluşturacak.
+TBLHAREKET kısmı yapılacak. Her bir işlem INSERT olarak yapılacak.
+Yeni bir form açılacak. Hareketlerim adında bir buton oluşturacak.

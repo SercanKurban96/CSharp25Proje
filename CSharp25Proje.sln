@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje12_SorguTest", "Proje1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje13_SifreliVeriler", "Proje13_SifreliVeriler\Proje13_SifreliVeriler.csproj", "{3EC9FD25-852B-4DCB-A6A3-FB9845CE9544}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje14_BankaTest", "Proje14_BankaTest\Proje14_BankaTest.csproj", "{F951818D-8316-4412-B2FB-15E3046B2670}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3EC9FD25-852B-4DCB-A6A3-FB9845CE9544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EC9FD25-852B-4DCB-A6A3-FB9845CE9544}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EC9FD25-852B-4DCB-A6A3-FB9845CE9544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F951818D-8316-4412-B2FB-15E3046B2670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F951818D-8316-4412-B2FB-15E3046B2670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F951818D-8316-4412-B2FB-15E3046B2670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F951818D-8316-4412-B2FB-15E3046B2670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

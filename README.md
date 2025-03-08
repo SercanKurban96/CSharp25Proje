@@ -479,6 +479,42 @@ Burada yeni bir hesap oluşturuyoruz.<br><br>
 
 <hr>
 
+# 🖥️ Proje 15 - Öğrenci Etüt & Ders Kayıt Sistemi
+
+![image](https://github.com/user-attachments/assets/193abaf5-dd92-4ad8-920e-08f8347d2376)
+<br>
+
+![image](https://github.com/user-attachments/assets/8f0a069f-8a79-4a10-9cf9-8540bd57d7e3)
+<br>
+
+![image](https://github.com/user-attachments/assets/5722767a-5683-4fe7-8775-992f3a5bdd95)
+<br>
+
+![image](https://github.com/user-attachments/assets/0272fd60-111a-433f-bc3e-dbb0e8745e84)
+<br>
+
+![image](https://github.com/user-attachments/assets/99be94e7-00ed-4129-9d8a-c3d82351b5db)
+<br>
+TBLETUT tablosunda DURUM kısmı Default olarak 0 belirlenmiştir.<br><br>
+
+![image](https://github.com/user-attachments/assets/e7bae896-1345-450d-a3f0-8aad0e583a64)
+<br>
+
+![image](https://github.com/user-attachments/assets/e1b5cbba-ad34-419b-b669-c27a1d7d2d4f)
+<br>
+
+![image](https://github.com/user-attachments/assets/4a85afa4-39a3-498c-8861-5fc97bafb367)
+<br>
+
+![image](https://github.com/user-attachments/assets/a8cb06ba-407b-485f-97d0-97102f86ecb2)
+<br>
+
+![image](https://github.com/user-attachments/assets/e0a22897-de16-4d90-adb5-1b8c65e05944)
+<br><br>
+
+<hr>
+
+
 
 
 

@@ -443,3 +443,33 @@ Formumuzun tasarımını bu şekilde oluşturduk. Yazacağımız verilerin şifr
 
 <hr>
 
+# 🖥️ Proje 14 - Bankamatik Simülasyonu
+
+![image](https://github.com/user-attachments/assets/fbecf7ad-b182-43eb-8254-82bce0448114)
+<br>
+
+![image](https://github.com/user-attachments/assets/d33b31c5-25b9-49ff-8ee1-7fe618db0918)
+<br>
+
+![image](https://github.com/user-attachments/assets/a162a866-2fc0-48ad-8337-c275178280f4)
+<br>
+Bu tabloda otomatik artan işlemi kullanılmamıştır.<br><br>
+
+![image](https://github.com/user-attachments/assets/aa13b36d-15cb-476d-8391-ce1fd718e1ed)
+<br>
+Tablolarımızı bu şekilde oluşturduk. Şimdi yeni bir form oluşturuyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/65f1d18f-68d1-47bd-9179-a984f76191e5)
+<br>
+Giriş formumuzu bu şekilde oluşturduk.<br><br>
+
+![image](https://github.com/user-attachments/assets/6814e73d-eb31-4343-835e-38b7982b2fb4)
+<br>
+Burada kullanıcının hesap bilgilerini görüntüleyebilme ve para gönderme işlemlerini yapıyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/29ad85a0-c1b6-49c1-ab45-b762aa07cbd8)
+<br>
+Burada yeni bir hesap oluşturuyoruz.<br><br>
+
+
+

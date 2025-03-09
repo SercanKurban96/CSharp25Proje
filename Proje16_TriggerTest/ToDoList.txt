@@ -1,0 +1,1 @@
+﻿Yeni bir tetikleyici oluşturun ve tüm alanlar için TBLKITAPLAR tablosundan silinen veriyi TBLKITAPYEDEK tablosuna aktarılsın.

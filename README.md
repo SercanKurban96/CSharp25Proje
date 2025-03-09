@@ -514,8 +514,60 @@ TBLETUT tablosunda DURUM kısmı Default olarak 0 belirlenmiştir.<br><br>
 
 <hr>
 
+# 🖥️ Proje 16 - Trigger Kullanarak Veri Tabanı Yedek Tablosu Oluşturma
+Bu projede isterseniz var olan veri tabanına ait tablo üzerinden de yapabilirsiniz. Biz burada daha önce oluşturduğumuz DbProje10 adlı veri tabanı üzerinden tablo oluşturacağız.<br><br>
 
+![image](https://github.com/user-attachments/assets/6424f096-e66a-434e-8808-33e10ed4ef58)
+<br>
 
+![image](https://github.com/user-attachments/assets/cbf64e18-a6fe-48ad-abba-3ab753f0450d)
+<br>
+Bu tabloda otomatik artan uygulanmamıştır. Edit Top 200 Rows'a geldiğimizde başlangıç değerini 0 yapıyoruz.<br><br>
+
+<b>Kitap adetini birer birer arttırmak için yazacağımız SQL sorgusu:</b><br><br>
+CREATE TRIGGER ARTTIR<br>
+ON TBLKITAPLAR<br>
+AFTER INSERT<br>
+AS<br>
+UPDATE TBLSAYAC SET ADET=ADET+1<br><br>
+
+![image](https://github.com/user-attachments/assets/46da8670-bca8-4dc0-97ff-350ffa8a6eee)
+<br>
+Oluşturduğumuz TBLKITAPLAR tablosunda yer alan sütunların aynısını yazıyoruz ve tablomuzun ismini TBLKITAPYEDEK olarak kaydediyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/d70cd0b5-0f2c-4180-a66b-a69b54a68dc7)
+<br>
+
+![image](https://github.com/user-attachments/assets/9f531113-e1d5-4e75-9302-30f854059f70)
+<br>
+
+![image](https://github.com/user-attachments/assets/81dd234f-3a80-4177-8507-46bbb293ee86)
+<br><br>
+
+<b>Kitap adetini birer birer azaltmak için yazacağımız SQL sorgusu:</b><br><br>
+CREATE TRIGGER AZALT<br>
+ON TBLKITAPLAR<br>
+AFTER DELETE<br>
+AS<br>
+UPDATE TBLSAYAC SET ADET=ADET-1<br><br>
+
+<b>Yedekleme İşlemi İçin TBLKITAPLAR tablosundan sildiğimiz veriyi TBLKITAPYEDEK tablosuna aktarma işlemi için yazacağımız SQL sorgusu:</b><br><br>
+CREATE TRIGGER YEDEK<br>
+ON TBLKITAPLAR<br>
+AFTER DELETE<br>
+AS<br>
+DECLARE @kitapad varchar(50)<br>
+DECLARE @kitapyazar varchar(50)<br>
+SELECT @kitapad=AD, @kitapyazar=YAZAR from deleted<br>
+INSERT INTO TBLKITAPYEDEK(AD,YAZAR) VALUES (@kitapad,@kitapyazar)<br><br>
+
+![image](https://github.com/user-attachments/assets/a42f0760-4a76-4e36-9e4d-804065f9a91a)
+<br>
+
+![image](https://github.com/user-attachments/assets/f5c40a3c-0c50-4b2c-98e2-835b553a9649)
+<br><br>
+
+<hr>
 
 
 

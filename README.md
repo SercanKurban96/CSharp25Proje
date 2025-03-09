@@ -610,6 +610,7 @@ TBLYOLCUBILGI tablosunda ise CINSIYET bit yerine char(5) olarak değiştirilmiş
 
 <hr>
 
+# 🖥️ Proje 18 - Petrol & Akaryakıt Stok Takip Sistemi
 
 
 

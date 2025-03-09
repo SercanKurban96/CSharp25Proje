@@ -612,5 +612,41 @@ TBLYOLCUBILGI tablosunda ise CINSIYET bit yerine char(5) olarak değiştirilmiş
 
 # 🖥️ Proje 18 - Petrol & Akaryakıt Stok Takip Sistemi
 
+Bu projede Petrol Ofisi'ne benzer bir simülasyon geliştireceğiz.<br><br>
+
+![image](https://github.com/user-attachments/assets/14a2686a-2329-4a06-9241-345ff6823a05)
+<br>
+
+![image](https://github.com/user-attachments/assets/6897e12a-9d03-41f3-a53e-6dcca279503b)
+<br>
+
+![image](https://github.com/user-attachments/assets/6b4931f3-f043-4bee-b867-8982f5a77129)
+<br>
+TBLKASA tablosunda otomatik artan uygulanmamıştır.<br><br>
+
+![image](https://github.com/user-attachments/assets/d122bdc5-7674-4bdb-984e-f66d9b42c3e9)
+<br>
+
+![image](https://github.com/user-attachments/assets/6577fdc7-8094-4225-a5dc-7a4ea56661a8)
+<br>
+
+![image](https://github.com/user-attachments/assets/d3c4e1f8-be1a-4459-8454-63a8e907d15c)
+<br>
+
+![image](https://github.com/user-attachments/assets/fbfcce3e-a4eb-4b86-b2f6-66e087035f5a)
+<br>
+
+![image](https://github.com/user-attachments/assets/ca0be4a5-e71c-4230-a144-c15ae6e0840f)
+<br>
+
+![image](https://github.com/user-attachments/assets/47bdccc9-f35f-423b-877b-5ba5499355f3)
+<br><br>
+
+<hr>
+
+
+
+
+
 
 

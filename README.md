@@ -1,6 +1,6 @@
 # <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> ile 25 Derste 25 Uygulamalı Proje
 
-👋 Merhabalar, oluşturmuş olduğum bu repo, Udemy'de Murat Yücedağ tarafından verilen C# ile 25 Derste 25 Uygulamalı Proje adlı kursta yapmış olduğum sorguları içermektedir. Bu eğitimde C# ve MSSQL ile yapılan projeler anlatılmaktadır.
+👋 Merhabalar, oluşturmuş olduğum bu repo, Udemy'de Murat Yücedağ tarafından verilen C# ile 25 Derste 25 Uygulamalı Proje adlı kursta yapmış olduğum sorguları içermektedir. Bu eğitimde C#, MSSQL ve Access ile yapılan projeler içermektedir.
 <br><hr>
 
 # 🖥️ Proje 1 - Öğrenci Sınav Not Kayıt Sistemi
@@ -568,6 +568,85 @@ INSERT INTO TBLKITAPYEDEK(AD,YAZAR) VALUES (@kitapad,@kitapyazar)<br><br>
 <br><br>
 
 <hr>
+
+# 🖥️ Proje 17 - Veri Tabanı ile Yolcu Bilet Rezervasyon & Kayıt Sistemi
+
+![image](https://github.com/user-attachments/assets/ae064127-1beb-46b2-bd0c-3697dc458018)
+<br>
+
+![image](https://github.com/user-attachments/assets/c69a9766-9471-4634-b916-2ab4fbe40ee8)
+<br>
+
+![image](https://github.com/user-attachments/assets/d0575de8-ca5c-4363-b161-d4335631487d)
+<br>
+
+![image](https://github.com/user-attachments/assets/056dff89-55ab-4718-99d5-7a401bc6f9b3)
+<br>
+
+![image](https://github.com/user-attachments/assets/356aee24-924a-4b85-95e9-d06cbdac93ab)
+<br>
+TBLSEFERBILGI tablosunda yer alan ID sütununa geldiğimizde otomatik artan kısmında yer alan Identity Seed değerini 1000 yapıyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/0ede62c0-af12-4c78-a906-cb157a3a49ae)
+<br>
+
+![image](https://github.com/user-attachments/assets/463209f2-6428-46e2-9577-2eab8c1551d8)
+<br>
+TBLSEFERBILGI tablosunda küçük bir değişiklik yapılmıştır. ID yerine SEFERNO ismi, TARIH char(5) yerine char(15) olarak değiştirilmiştir.<br><br>
+
+![image](https://github.com/user-attachments/assets/7d9689ff-bfd8-4c9e-b625-5f7f1c692b29)
+<br>
+TBLSEFERDETAY tablosunda ise SEFERNO char(6) yerine int olarak değiştirilmiştir.<br><br>
+
+![image](https://github.com/user-attachments/assets/80e94f4e-d845-45d3-8ada-8af66fe8a398)
+<br>
+
+![image](https://github.com/user-attachments/assets/193547df-e938-4f8e-8454-6c71e36e63fd)
+<br>
+TBLYOLCUBILGI tablosunda ise CINSIYET bit yerine char(5) olarak değiştirilmiştir.<br><br>
+
+![image](https://github.com/user-attachments/assets/9050c881-83e7-49e0-afab-fa0839112f92)
+<br><br>
+
+<hr>
+
+# 🖥️ Proje 18 - Petrol & Akaryakıt Stok Takip Sistemi
+
+Bu projede Petrol Ofisi'ne benzer bir simülasyon geliştireceğiz.<br><br>
+
+![image](https://github.com/user-attachments/assets/14a2686a-2329-4a06-9241-345ff6823a05)
+<br>
+
+![image](https://github.com/user-attachments/assets/6897e12a-9d03-41f3-a53e-6dcca279503b)
+<br>
+
+![image](https://github.com/user-attachments/assets/6b4931f3-f043-4bee-b867-8982f5a77129)
+<br>
+TBLKASA tablosunda otomatik artan uygulanmamıştır.<br><br>
+
+![image](https://github.com/user-attachments/assets/d122bdc5-7674-4bdb-984e-f66d9b42c3e9)
+<br>
+
+![image](https://github.com/user-attachments/assets/6577fdc7-8094-4225-a5dc-7a4ea56661a8)
+<br>
+
+![image](https://github.com/user-attachments/assets/d3c4e1f8-be1a-4459-8454-63a8e907d15c)
+<br>
+
+![image](https://github.com/user-attachments/assets/fbfcce3e-a4eb-4b86-b2f6-66e087035f5a)
+<br>
+
+![image](https://github.com/user-attachments/assets/ca0be4a5-e71c-4230-a144-c15ae6e0840f)
+<br>
+
+![image](https://github.com/user-attachments/assets/47bdccc9-f35f-423b-877b-5ba5499355f3)
+<br><br>
+
+<hr>
+
+
+
+
 
 
 

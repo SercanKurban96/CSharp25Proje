@@ -689,7 +689,7 @@ TBLKASA tablosunda otomatik artan uygulanmamıştır.<br><br>
 
 # 🖥️ Proje 20 - Excel Veri Tabanı ile Temel Kayıt İşlemleri (Ekle, Listele, Sil)
 
-Excel connection string için aşağıdaki linkten bağlantıyı kopyalayabilirsiniz. 
+Excel connection string için aşağıdaki linkten bağlantıyı kopyalayabilirsiniz.<br>
 ⚠️ Eğer sizde Excel 2007'den daha düşük sürümünü kullanıyorsanız "Microsoft Jet OLE DB 4.0" sürümünü, 2007 ve üzeriyse "Microsoft ACE OLEDB 12.0" sürümüne ait bağlantıyı almanız gerekmektedir.<br>
 https://www.connectionstrings.com/excel/
 <br><br>

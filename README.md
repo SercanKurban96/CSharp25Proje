@@ -644,6 +644,50 @@ TBLKASA tablosunda otomatik artan uygulanmamıştır.<br><br>
 
 <hr>
 
+# 🖥️ Proje 19 - Dosya İşlemleri ile Resim Üzerine Yazı Yazma Uygulaması
+
+<b>Bu projede kullanacağımız araçlar:</b><br><br>
+📌 4 Button<br>
+📌 2 Label<br>
+📌 2 TextBox<br>
+📌 1 PictureBox<br>
+📌 1 OpenFileDialog<br>
+📌 1 SaveFileDialog<br>
+📌 1 ColorDialog<br><br>
+
+![image](https://github.com/user-attachments/assets/4873918f-a485-4348-b3c6-01d9b6085c77)
+<br>
+
+![image](https://github.com/user-attachments/assets/272e8924-6a2c-45d0-9e35-5d838ec40bd2)
+<br>
+
+![image](https://github.com/user-attachments/assets/34172e3a-7196-42cf-886e-380f9b143cb7)
+<br>
+
+![image](https://github.com/user-attachments/assets/d31b7d51-429a-4a27-a25c-500978630b1a)
+<br>
+
+![image](https://github.com/user-attachments/assets/df11cf70-d1c4-4bc2-86e6-452d465a7bf0)
+<br>
+
+![image](https://github.com/user-attachments/assets/941d0790-3e2a-42ae-8588-af4a25bb6176)
+<br>
+
+![image](https://github.com/user-attachments/assets/9b8e1426-7c67-4c43-a34d-d229f6c2a283)
+<br>
+
+![image](https://github.com/user-attachments/assets/f2b5e432-c0b1-4ded-b4ac-11f917d2b1b8)
+<br>
+
+![image](https://github.com/user-attachments/assets/80aebe42-bfa4-4601-a76e-8e68143bac41)
+<br>
+
+![image](https://github.com/user-attachments/assets/11199775-e83f-462b-850b-331be50da787)
+<br><br>
+
+<hr>
+
+
 
 
 

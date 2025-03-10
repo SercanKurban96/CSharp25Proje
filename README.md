@@ -694,6 +694,14 @@ Excel connection string için aşağıdaki linkten bağlantıyı kopyalayabilirs
 https://www.connectionstrings.com/excel/
 <br><br>
 
+![image](https://github.com/user-attachments/assets/b4f39ef9-4dfe-4a6b-86c7-e2d8f6620192)
+<br>
+
+![image](https://github.com/user-attachments/assets/594c82a1-2fb0-46f0-96a7-f0af898a5747)
+<br><br>
+
+<hr>
+
 
 
 

@@ -644,6 +644,8 @@ TBLKASA tablosunda otomatik artan uygulanmamıştır.<br><br>
 
 <hr>
 
+# 🖥️ Proje 19 - Dosya İşlemleri ile Resim Üzerine Yazı Yazma Uygulaması
+
 
 
 

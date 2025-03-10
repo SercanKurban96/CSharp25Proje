@@ -687,6 +687,23 @@ TBLKASA tablosunda otomatik artan uygulanmamıştır.<br><br>
 
 <hr>
 
+# 🖥️ Proje 20 - Excel Veri Tabanı ile Temel Kayıt İşlemleri (Ekle, Listele, Sil)
+
+Excel connection string için aşağıdaki linkten bağlantıyı kopyalayabilirsiniz.<br>
+⚠️ Eğer sizde Excel 2007'den daha düşük sürümünü kullanıyorsanız "Microsoft Jet OLE DB 4.0" sürümünü, 2007 ve üzeriyse "Microsoft ACE OLEDB 12.0" sürümüne ait bağlantıyı almanız gerekmektedir.<br>
+https://www.connectionstrings.com/excel/
+<br><br>
+
+![image](https://github.com/user-attachments/assets/b4f39ef9-4dfe-4a6b-86c7-e2d8f6620192)
+<br>
+
+![image](https://github.com/user-attachments/assets/594c82a1-2fb0-46f0-96a7-f0af898a5747)
+<br><br>
+
+<hr>
+
+
+
 
 
 

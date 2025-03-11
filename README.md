@@ -702,7 +702,55 @@ https://www.connectionstrings.com/excel/
 
 <hr>
 
+# 🖥️ Proje 21 - Pastahane Ürün Maliyetlendirme Sistemi
 
+![image](https://github.com/user-attachments/assets/1382d0c8-024e-458b-acb4-8379fca96948)
+<br>
+
+![image](https://github.com/user-attachments/assets/bfb06ec3-659f-46c1-9a13-1b8e57bae03b)
+<br>
+
+![image](https://github.com/user-attachments/assets/c893cf56-d11d-413d-a20a-4b501a674a44)
+<br>
+
+![image](https://github.com/user-attachments/assets/63e64bd5-6fea-4f2c-880f-cf2de1af2849)
+<br>
+Burada MFIYAT, SFIYAT ve STOK sütunlarının başlangıç değerlerini 0 olarak belirliyoruz.<br>
+
+![image](https://github.com/user-attachments/assets/4543037a-f856-42d6-8250-701e04fd0c49)
+<br>
+
+![image](https://github.com/user-attachments/assets/f69c0c04-b71a-4973-bdda-0ed16626c3bc)
+<br>
+
+![image](https://github.com/user-attachments/assets/96cd6513-4d04-4678-b18c-e138513e5e31)
+<br><br>
+
+![image](https://github.com/user-attachments/assets/c932d3dc-6bc5-4c6c-8277-e72f4970e4a0)
+<br>
+
+![image](https://github.com/user-attachments/assets/bc07dca4-12bc-46d6-8161-c07fad070932)
+<br><br>
+
+![image](https://github.com/user-attachments/assets/d970c9a2-bd2c-4aa3-8cc6-37f8695bf2ca)
+<br>
+
+![image](https://github.com/user-attachments/assets/758621b5-555c-44c7-a8d1-e50f28e8d47d)
+<br>
+
+![image](https://github.com/user-attachments/assets/960c943d-5b7a-4c23-b1a5-448bf0de3ecd)
+<br>
+
+![image](https://github.com/user-attachments/assets/7f4a803e-29e1-44f8-8078-c20d863d0619)
+<br>
+
+![image](https://github.com/user-attachments/assets/084c8d8b-52e3-4283-9ea2-d38c77d52734)
+<br>
+
+![image](https://github.com/user-attachments/assets/cce9c4fa-9049-46b2-adc6-60b248fa8cec)
+<br><br>
+
+<hr>
 
 
 

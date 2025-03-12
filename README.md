@@ -752,7 +752,42 @@ Burada MFIYAT, SFIYAT ve STOK sütunlarının başlangıç değerlerini 0 olarak
 
 <hr>
 
+# 🖥️ Proje 22 - RSS ile İnternetten Haber Başlıkları Çekme
 
+## 📌 RSS Nedir?
+RSS (Really Simple Syndication), web sitelerindeki güncellemeleri ve içerikleri takip etmeyi kolaylaştıran bir XML tabanlı formattır. RSS sayesinde haber siteleri, bloglar veya diğer içerik sağlayıcılar, güncellemelerini bir RSS beslemesi (RSS feed) olarak sunabilirler. Kullanıcılar bu beslemeleri RSS okuyucu yazılımları veya tarayıcı eklentileriyle takip edebilir, böylece siteyi ziyaret etmeden yeni içeriklerden haberdar olabilirler.<br><br>
+
+### 📝 RSS’in Avantajları
+🎈 <b>Güncellemeleri takip etmeyi kolaylaştırır:</b> Birden fazla siteyi tek bir yerden kontrol edebilirsiniz.<br>
+🎈 <b>Zaman kazandırır:</b> İçeriği ziyaret etmeden doğrudan okuyabilirsiniz.<br>
+🎈 <b>Özelleştirilebilir:</b> İlginizi çeken konulara göre beslemeleri seçebilirsiniz.<br>
+🎈 <b>Reklamsız ve sade içerik sunar:</b> Web sitelerindeki reklamlardan ve gereksiz tasarımlardan kaçınabilirsiniz.<br><br>
+
+### 🧰 RSS Nasıl Kullanılır?
+:one: Takip etmek istediğiniz sitenin RSS adresini bulun (Genellikle "RSS" veya "Feed" simgesiyle gösterilir).<br>
+:two: Bir RSS okuyucu (örneğin, Feedly, Inoreader, RSS Owl) kullanarak bu adresi ekleyin.<br>
+:three: Güncellemeler RSS okuyucunuzda listelenir ve yeni içerikleri kolayca okuyabilirsiniz.<br><br>
+
+✔️ Günümüzde RSS’nin kullanımı azalmış olsa da, haber siteleri, blog yazarları ve geliştiriciler için hâlâ önemli bir araçtır.<br><br>
+
+Burada Hürriyet, Milliyet ve Fotomaç gazetelerinin RSS adreslerini çekeceğiz.<br><br>
+
+Hürriyet için RSS linki: https://www.hurriyet.com.tr/rss/anasayfa<br>
+Milliyet için RSS linki: https://www.milliyet.com.tr/rss/rssnew/gundem.xml<br>
+Fotomaç için RSS linki: https://www.fotomac.com.tr/rss/anasayfa.xml<br><br>
+
+![image](https://github.com/user-attachments/assets/add30592-ce5e-4861-887a-98726122b2e8)
+<br>
+
+✅ Eklenecek kütüphane: using System.Xml;<br><br>
+
+![image](https://github.com/user-attachments/assets/bea6067d-5704-4e48-acdc-a673550ebccd)
+<br>
+
+![image](https://github.com/user-attachments/assets/c8d911dd-cf07-472a-b076-859c70b10f65)
+<br><br>
+
+<hr>
 
 
 

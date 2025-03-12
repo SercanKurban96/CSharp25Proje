@@ -789,6 +789,19 @@ Fotomaç için RSS linki: https://www.fotomac.com.tr/rss/anasayfa.xml<br><br>
 
 <hr>
 
+# 🖥️ Proje 23 - List Yapısı ve List ile Öğrenci Bilgileri Kaydetme Uygulaması
+
+## 📌 List Nedir?
+C#'ta List<T>, generic (jenerik) bir koleksiyon sınıfıdır ve System.Collections.Generic isim alanında bulunur. List<T>, dizi (array) gibi çalışır ancak dinamik boyutludur, yani eleman ekledikçe büyür, sildikçe küçülür.<br><br>
+
+### 🧰 List<T> Özellikleri
+✅ <b>Dinamik Boyut →</b> Eleman ekledikçe genişler, çıkardıkça küçülür.<br>
+✅ <b>Tür Güvenliği →</b> List<T>, belirli bir türde (T) veri saklar.<br>
+✅ <b>Diziye Benzer Kullanım →</b> Elemanlara dizilerdeki gibi indeks numarası ile erişilebilir.<br>
+✅ <b>Çeşitli Metotlar →</b> Add(), Remove(), Find(), Sort(), Contains() gibi birçok hazır metodu vardır.<br><br>
+
+![image](https://github.com/user-attachments/assets/f761cd55-3b28-4a90-80e9-014677eac1d8)
+<br>
 
 
 

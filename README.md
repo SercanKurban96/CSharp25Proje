@@ -803,6 +803,31 @@ C#'ta List<T>, generic (jenerik) bir koleksiyon sınıfıdır ve System.Collecti
 ![image](https://github.com/user-attachments/assets/f761cd55-3b28-4a90-80e9-014677eac1d8)
 <br>
 
+![image](https://github.com/user-attachments/assets/5f857052-f18d-4032-b8b3-fdef69b73fd2)
+<br>
+
+![image](https://github.com/user-attachments/assets/c2971bb1-896d-482c-a3be-715f96d320f9)
+<br>
+
+![image](https://github.com/user-attachments/assets/5fdbcd42-87f5-4a6d-a2d6-21b939ce3933)
+<br>
+
+![image](https://github.com/user-attachments/assets/c4e5e06e-5e61-494b-8ef4-4f6f03d1a7f7)
+<br>
+
+Kisiler isminde bir tane class oluşturuyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/2db4a4b5-bf31-4a4b-9685-e5e0f925f63d)
+<br>
+
+![image](https://github.com/user-attachments/assets/f7a73c19-a285-4ca8-9b20-6e08bfab384a)
+<br>
+
+![image](https://github.com/user-attachments/assets/04d5f004-8057-4a8d-94fd-0eb3f769fbf4)
+<br><br>
+
+<hr>
+
 
 
 

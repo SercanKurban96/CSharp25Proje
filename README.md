@@ -752,8 +752,81 @@ Burada MFIYAT, SFIYAT ve STOK sütunlarının başlangıç değerlerini 0 olarak
 
 <hr>
 
+# 🖥️ Proje 22 - RSS ile İnternetten Haber Başlıkları Çekme
 
+## 📌 RSS Nedir?
+RSS (Really Simple Syndication), web sitelerindeki güncellemeleri ve içerikleri takip etmeyi kolaylaştıran bir XML tabanlı formattır. RSS sayesinde haber siteleri, bloglar veya diğer içerik sağlayıcılar, güncellemelerini bir RSS beslemesi (RSS feed) olarak sunabilirler. Kullanıcılar bu beslemeleri RSS okuyucu yazılımları veya tarayıcı eklentileriyle takip edebilir, böylece siteyi ziyaret etmeden yeni içeriklerden haberdar olabilirler.<br><br>
 
+### 📝 RSS’in Avantajları
+🎈 <b>Güncellemeleri takip etmeyi kolaylaştırır:</b> Birden fazla siteyi tek bir yerden kontrol edebilirsiniz.<br>
+🎈 <b>Zaman kazandırır:</b> İçeriği ziyaret etmeden doğrudan okuyabilirsiniz.<br>
+🎈 <b>Özelleştirilebilir:</b> İlginizi çeken konulara göre beslemeleri seçebilirsiniz.<br>
+🎈 <b>Reklamsız ve sade içerik sunar:</b> Web sitelerindeki reklamlardan ve gereksiz tasarımlardan kaçınabilirsiniz.<br><br>
+
+### 🧰 RSS Nasıl Kullanılır?
+:one: Takip etmek istediğiniz sitenin RSS adresini bulun (Genellikle "RSS" veya "Feed" simgesiyle gösterilir).<br>
+:two: Bir RSS okuyucu (örneğin, Feedly, Inoreader, RSS Owl) kullanarak bu adresi ekleyin.<br>
+:three: Güncellemeler RSS okuyucunuzda listelenir ve yeni içerikleri kolayca okuyabilirsiniz.<br><br>
+
+✔️ Günümüzde RSS’nin kullanımı azalmış olsa da, haber siteleri, blog yazarları ve geliştiriciler için hâlâ önemli bir araçtır.<br><br>
+
+Burada Hürriyet, Milliyet ve Fotomaç gazetelerinin RSS adreslerini çekeceğiz.<br><br>
+
+Hürriyet için RSS linki: https://www.hurriyet.com.tr/rss/anasayfa<br>
+Milliyet için RSS linki: https://www.milliyet.com.tr/rss/rssnew/gundem.xml<br>
+Fotomaç için RSS linki: https://www.fotomac.com.tr/rss/anasayfa.xml<br><br>
+
+![image](https://github.com/user-attachments/assets/add30592-ce5e-4861-887a-98726122b2e8)
+<br>
+
+✅ Eklenecek kütüphane: using System.Xml;<br><br>
+
+![image](https://github.com/user-attachments/assets/bea6067d-5704-4e48-acdc-a673550ebccd)
+<br>
+
+![image](https://github.com/user-attachments/assets/c8d911dd-cf07-472a-b076-859c70b10f65)
+<br><br>
+
+<hr>
+
+# 🖥️ Proje 23 - List Yapısı ve List ile Öğrenci Bilgileri Kaydetme Uygulaması
+
+## 📌 List Nedir?
+C#'ta List<T>, generic (jenerik) bir koleksiyon sınıfıdır ve System.Collections.Generic isim alanında bulunur. List<T>, dizi (array) gibi çalışır ancak dinamik boyutludur, yani eleman ekledikçe büyür, sildikçe küçülür.<br><br>
+
+### 🧰 List<T> Özellikleri
+✅ <b>Dinamik Boyut →</b> Eleman ekledikçe genişler, çıkardıkça küçülür.<br>
+✅ <b>Tür Güvenliği →</b> List<T>, belirli bir türde (T) veri saklar.<br>
+✅ <b>Diziye Benzer Kullanım →</b> Elemanlara dizilerdeki gibi indeks numarası ile erişilebilir.<br>
+✅ <b>Çeşitli Metotlar →</b> Add(), Remove(), Find(), Sort(), Contains() gibi birçok hazır metodu vardır.<br><br>
+
+![image](https://github.com/user-attachments/assets/f761cd55-3b28-4a90-80e9-014677eac1d8)
+<br>
+
+![image](https://github.com/user-attachments/assets/5f857052-f18d-4032-b8b3-fdef69b73fd2)
+<br>
+
+![image](https://github.com/user-attachments/assets/c2971bb1-896d-482c-a3be-715f96d320f9)
+<br>
+
+![image](https://github.com/user-attachments/assets/5fdbcd42-87f5-4a6d-a2d6-21b939ce3933)
+<br>
+
+![image](https://github.com/user-attachments/assets/c4e5e06e-5e61-494b-8ef4-4f6f03d1a7f7)
+<br>
+
+Kisiler isminde bir tane class oluşturuyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/2db4a4b5-bf31-4a4b-9685-e5e0f925f63d)
+<br>
+
+![image](https://github.com/user-attachments/assets/f7a73c19-a285-4ca8-9b20-6e08bfab384a)
+<br>
+
+![image](https://github.com/user-attachments/assets/04d5f004-8057-4a8d-94fd-0eb3f769fbf4)
+<br><br>
+
+<hr>
 
 
 

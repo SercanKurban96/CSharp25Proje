@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje21_MaliyetTest", "Proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje22_RssTest", "Proje22_RssTest\Proje22_RssTest.csproj", "{2E9F4B1A-6C88-470E-8BC5-011320ACB966}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje23_ListOrnekTest", "Proje23_ListOrnekTest\Proje23_ListOrnekTest.csproj", "{1FE25061-8624-4D7F-B28A-640B58B673F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{2E9F4B1A-6C88-470E-8BC5-011320ACB966}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E9F4B1A-6C88-470E-8BC5-011320ACB966}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E9F4B1A-6C88-470E-8BC5-011320ACB966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE25061-8624-4D7F-B28A-640B58B673F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE25061-8624-4D7F-B28A-640B58B673F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE25061-8624-4D7F-B28A-640B58B673F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE25061-8624-4D7F-B28A-640B58B673F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,1 @@
+﻿Bir tane Araba sınıfı oluşturun. Araba sınıfının içerisine bir listeyle arabanın modelini, yılını, vites türünü vs. birkaç tane özellik ekleyerek form üzerinden ekleyerek gidin.

@@ -828,6 +828,75 @@ Kisiler isminde bir tane class oluşturuyoruz.<br><br>
 
 <hr>
 
+# 🖥️ Proje 24 - Sınıf Üzerinden Veri Tabanı İşlemleri (OOP+Database)
+Bu projede Access veri tabanını kullanacağız.<br><br>
+
+![image](https://github.com/user-attachments/assets/62cd8e83-bf4d-4dbb-a052-c413210aa829)
+<br>
+Veri tabanımızın ismini Kitaplik olarak belirledik. Burada kitabın adı ve yazarı isminde iki tane alan kullanacağız. Veri tabanımızı 2002-2003 sürümünü seçerek mdb uzantılı olarak oluşturuyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/2a462ace-a6d8-4fc7-b91a-b8d3717f3b9a)
+<br>
+Tablo1 tablosuna sağ tıklayıp Tasarım Görünümü diyoruz.<br>
+
+![image](https://github.com/user-attachments/assets/18542a43-1df9-4482-9bec-e9f57e240ff1)
+<br>
+İsmini Kitaplar olarak belirledik.<br>
+
+![image](https://github.com/user-attachments/assets/24683fb1-6c73-44f7-832f-b3fdbd943bb6)
+<br>
+Kitaplar tablosundaki alanlarımızı belirledik. Tablomuzu kaydediyoruz.<br>
+Verileri girmek için Kitaplar tablomuza çift tıklıyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/bc081fe0-3686-47be-809c-46e1f0915485)
+<br>
+Örnek veri girişlerimizi yaptık.<br>
+
+![image](https://github.com/user-attachments/assets/cc871253-d17c-470f-9561-a6af4107a062)
+<br>
+Formumuzun tasarımını bu şekilde yaptık. Şimdi class oluşturacağız.<br><br>
+
+![image](https://github.com/user-attachments/assets/5ef93b71-8a1d-49f3-9614-dd94338f7045)
+<br>
+Class ismini Kitap olarak belirledik.<br><br>
+
+![image](https://github.com/user-attachments/assets/596c24d2-4719-4613-8d07-52bf683fc5cf)
+<br>
+Kitap sınıfına ait olan özellikleri bu şekilde ekledik.<br><br>
+
+![image](https://github.com/user-attachments/assets/3e9a529f-5cb0-4e1f-a7d7-58fc3388bb8b)
+<br>
+Bir tane daha class oluşturuyoruz ve veri tabanı işlemlerimiz için ismini KitapVT olarak belirledik.<br><br>
+
+![image](https://github.com/user-attachments/assets/631fbdd4-54e0-439b-a7c8-126560b9f254)
+<br>
+Project kısmından Add New Data Source diyoruz ve çıkan pencerede Next diyoruz. Ardından tekrar Next diyoruz. Yeni bir veri tabanı adresi eklemek için New Connection diyoruz.<br>
+
+![image](https://github.com/user-attachments/assets/765a6537-63d1-4637-8aa9-cfc9aa4164e9)
+<br>
+Buradan Access veri tabanını seçmek için Change diyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/032a9cc2-2d9b-45a6-b12e-3330e09e1c76)
+<br>
+Burada en üstte yer alan Microsoft Access Database File olanı seçiyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/27205e39-14c8-4312-8e7c-0eb35c6d30f0)
+<br>
+Buradan Browse kısmına tıklayarak oluşturduğumuz veri tabanını seçiyoruz ve OK diyoruz.<br><br>
+
+![image](https://github.com/user-attachments/assets/ce8340e2-3a50-4ffb-982e-b74938226c8b)
+<br>
+
+![image](https://github.com/user-attachments/assets/00ab4b62-c777-4969-a73d-3a7a84295bf8)
+<br>
+
+![image](https://github.com/user-attachments/assets/4904a0ee-a2be-4b2b-81bc-dd56a6ee4f35)
+<br>
+
+![image](https://github.com/user-attachments/assets/ce1d652c-c82d-4851-b28e-032ded0719f6)
+<br><br>
+
+<hr>
 
 
 

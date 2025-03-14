@@ -898,6 +898,6 @@ Buradan Browse kısmına tıklayarak oluşturduğumuz veri tabanını seçiyoruz
 
 <hr>
 
-
-
+# 🖥️ Proje 25 - Final
+Bu eğitim bana gerçekten çok şey kattı. Daha önceden C# ve SQL bilgilerim sayesinde Öğrenci Sınav Not Kayıt Sistemi projesinden başlayarak finale kadar geldiğim bu müfredattaki tüm projeleri uygulayarak bilgi birikimimi daha da arttırmış oldum. Eğitim boyunca vermiş olduğu ödevlerle daha da pekiştirmemi sağladığı için Sayın Murat Yücedağ'a çok teşekkür ederim.
 
